@@ -1,0 +1,8 @@
+Ford
+ZTW
+$18445
+10,Fort Knox Gold Clearcoat Metallic $0,Liquid Grey Clearcoat Metallic $0,Infra-Red Clearcoat $0,Grabber Green Clearcoat Metallic $0,Sangria Red Clearcoat Metallic $0,French Blue Clearcoat Metallic $0,Twilight Blue Clearcoat Metallic $0,CD Silver Clearcoat Metallic $0,Pitch Black Clearcoat $0,Cloud 9 White Clearcoat $0
+2,Automatic $0,Manual $-815
+3,Standard $0,ABS $400,ABS with Advance Trac $1625
+2,present $350,not present $0
+2,present $595,not present $0

@@ -1,0 +1,44 @@
+Opening db connection
+FordZTW
+Base price: $18445.0
+New Color: 
+Option1: Liquid Grey $10.0
+Option2: Infra-Red Clearcoat $0.0
+Option3: Grabber Green Clearcoat Metallic $0.0
+Option4: Sangria Red Clearcoat Metallic $0.0
+Option5: French Blue Clearcoat Metallic $0.0
+Option6: Twilight Blue Clearcoat Metallic $0.0
+Option7: CD Silver Clearcoat Metallic $0.0
+Option8: Pitch Black Clearcoat $0.0
+Option9: Cloud 9 White Clearcoat $0.0
+Brakes: 
+Option1: Standard $0.0
+Option2: ABS $400.0
+Option3: ABS with Advance Trac $1625.0
+Side Impact Air Bags: 
+Option1: present $350.0
+Option2: not present $0.0
+Power Moonroof: 
+Option1: present $595.0
+Option2: not present $0.0
+
+There is no NissanAltimain the database. It is either not created or deleted.
+
+HondaAccord
+Base price: $17000.0
+Color: 
+Option1: Grabber Green Clearcoat Metallic $0.0
+Option2: Sangria Red Clearcoat Metallic $0.0
+Option3: French Blue Clearcoat Metallic $0.0
+Option4: Twilight Blue Clearcoat Metallic $0.0
+Option5: CD Silver Clearcoat Metallic $0.0
+Option6: Pitch Black Clearcoat $0.0
+Option7: Cloud 9 White Clearcoat $0.0
+Transmission: 
+Option1: Automatic and Manual $219.0
+Option2: Manual $-965.0
+New Brakes: 
+Option1: Standard $0.0
+Option2: ABS $450.0
+Side Impact Air Bags: 
+Option1: present $380.0

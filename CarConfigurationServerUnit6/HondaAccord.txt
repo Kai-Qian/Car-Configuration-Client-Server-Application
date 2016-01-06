@@ -1,0 +1,8 @@
+Honda
+Accord
+$17000
+7,Grabber Green Clearcoat Metallic $0,Sangria Red Clearcoat Metallic $0,French Blue Clearcoat Metallic $0,Twilight Blue Clearcoat Metallic $0,CD Silver Clearcoat Metallic $0,Pitch Black Clearcoat $0,Cloud 9 White Clearcoat $0
+2,Automatic $0,Manual $-965
+2,Standard $0,ABS $450
+2,present $380,not present $0
+2,present $608,not present $0

@@ -1,0 +1,8 @@
+Nissan
+Altima
+$16005
+8,Infra-Red Clearcoat $0,Grabber Green Clearcoat Metallic $0,Sangria Red Clearcoat Metallic $0,French Blue Clearcoat Metallic $0,Twilight Blue Clearcoat Metallic $0,CD Silver Clearcoat Metallic $0,Pitch Black Clearcoat $0,Cloud 9 White Clearcoat $0
+2,Automatic $0,Manual $-725
+2,Standard $0,ABS with Advance Trac $1521
+2,present $390,not present $0
+2,present $558,not present $0
